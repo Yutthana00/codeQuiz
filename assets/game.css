@@ -57,6 +57,11 @@ body {
     border-radius: 50px;
     overflow: hidden;
 }
+#progressBarFull {
+    height: 100%;
+    background: greenyellow;
+    width: 0%;
+}
 
 @media screen and (max-width:800px) {
     .choice-container {
