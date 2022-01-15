@@ -108,17 +108,17 @@ input {
 }
 
 input::placeholder {
-    color: #fff;
+    color: gray;
 }
 #username {
     margin-bottom: 3rem;
-    color: #fff;
+    color: gray;
     text-align: center;
 }
 
 #end-text {
     font-size: 2.4rem;
-    color: #fff;
+    color: gray;
     text-align: center;
 }
 
